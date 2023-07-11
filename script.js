@@ -2,7 +2,6 @@ const video = document.getElementById('video');
 const scanBtn = document.getElementById('scan-btn');
 const result = document.getElementById('result');
 
-// Check if QR code scanning is supported
 if ('mediaDevices' in navigator && 'getUserMedia' in navigator.mediaDevices) {
   scanBtn.addEventListener('click', startScanning);
 } else {
