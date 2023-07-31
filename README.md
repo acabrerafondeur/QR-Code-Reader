@@ -4,7 +4,8 @@ This is a simple QR Code Reader application that utilizes the device's camera to
 
 ## Demo
 
-https://codepen.io/amcodes/full/xxQPvVY
+https://codepen.io/amcodes/full/xxQPvVY  
+https://acabrerafondeur.github.io/QR-Code-Reader/
 
 ## Usage
 
